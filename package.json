@@ -1,0 +1,23 @@
+{
+  "name": "programming-for-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-McLemore/programming-for-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J-McLemore/programming-for-web/issues"
+  },
+  "homepage": "https://github.com/J-McLemore/programming-for-web#readme",
+  "devDependencies": {
+    "eslint": "^7.18.0"
+  }
+}
